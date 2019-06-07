@@ -27,6 +27,7 @@ This code was tested on Windows 10.
 
 ## Citation
 If you use our code or method in your work, please cite the following:
+```
 @article{fotouhi2019interactive,
   title={Interactive Flying Frustums (IFFs): spatially aware surgical data visualization},
   author={Fotouhi, Javad and Unberath, Mathias and Song, Tianyu and Gu, Wenhao and Johnson, Alex and Osgood, Greg and Armand, Mehran and Navab, Nassir},
@@ -35,4 +36,4 @@ If you use our code or method in your work, please cite the following:
   year={2019},
   publisher={Springer}
 }
-
+```
