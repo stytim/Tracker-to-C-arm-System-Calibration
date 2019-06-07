@@ -9,7 +9,7 @@ Calibration between X-ray source and the marker that is attached to the C-arm. A
 ## Step 2
 Hand-Eye calibration between X-ray-source and HoloLens. 
 
-![Transformation Chain](https://raw.githubusercontent.com/stytim/Tracker-to-C-arm-System-Calibration/master/Readme_Images/transformation.jpg)
+![Transformation Chain](https://raw.githubusercontent.com/stytim/Tracker-to-C-arm-System-Calibration/master/Readme_Images/calbration.jpg)
 
 ## Requirements
 * Python 3
