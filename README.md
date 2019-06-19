@@ -26,14 +26,4 @@ This code was tested on Windows 10.
 2. Run the Matlab script `HandEyeCalibration.m`.
 
 ## Citation
-If you use our code or method in your work, please cite the following:
-```
-@article{fotouhi2019interactive,
-  title={Interactive Flying Frustums (IFFs): spatially aware surgical data visualization},
-  author={Fotouhi, Javad and Unberath, Mathias and Song, Tianyu and Gu, Wenhao and Johnson, Alex and Osgood, Greg and Armand, Mehran and Navab, Nassir},
-  journal={International journal of computer assisted radiology and surgery},
-  pages={1--10},
-  year={2019},
-  publisher={Springer}
-}
-```
+To be updated.
