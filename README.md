@@ -26,4 +26,29 @@ This code was tested on Windows 10.
 2. Run the Matlab script `HandEyeCalibration.m`.
 
 ## Citation
-To be updated.
+If you use this code for your research, please cite our paper <a href="https://link.springer.com/article/10.1007/s11548-019-02035-8">Co-localized augmented human and X-ray observers in collaborative surgical ecosystem</a>:
+
+```
+@article{fotouhi2019co,
+  title={Co-localized augmented human and X-ray observers in collaborative surgical ecosystem},
+  author={Fotouhi, Javad and Unberath, Mathias and Song, Tianyu and Hajek, Jonas and Lee, Sing Chun and Bier, Bastian and Maier, Andreas and Osgood, Greg and Armand, Mehran and Navab, Nassir},
+  journal={International Journal of Computer Assisted Radiology and Surgery},
+  pages={1--11},
+  year={2019},
+  publisher={Springer}
+}
+```
+and <a href="https://link.springer.com/article/10.1007/s11548-019-01943-z">Interactive Flying Frustums (IFFs): spatially aware surgical data visualization</a>:
+
+```
+@article{fotouhi2019interactive,
+  title={Interactive Flying Frustums (IFFs): spatially aware surgical data visualization},
+  author={Fotouhi, Javad and Unberath, Mathias and Song, Tianyu and Gu, Wenhao and Johnson, Alex and Osgood, Greg and Armand, Mehran and Navab, Nassir},
+  journal={International journal of computer assisted radiology and surgery},
+  volume={14},
+  number={6},
+  pages={913--922},
+  year={2019},
+  publisher={Springer}
+}
+```
