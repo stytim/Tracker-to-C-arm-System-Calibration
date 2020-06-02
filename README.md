@@ -47,8 +47,10 @@ and <a href="https://link.springer.com/article/10.1007/s11548-019-02035-8">Co-lo
 @article{fotouhi2019co,
   title={Co-localized augmented human and X-ray observers in collaborative surgical ecosystem},
   author={Fotouhi, Javad and Unberath, Mathias and Song, Tianyu and Hajek, Jonas and Lee, Sing Chun and Bier, Bastian and Maier, Andreas and Osgood, Greg and Armand, Mehran and Navab, Nassir},
-  journal={International Journal of Computer Assisted Radiology and Surgery},
-  pages={1--11},
+  journal={International journal of computer assisted radiology and surgery},
+  volume={14},
+  number={9},
+  pages={1553--1563},
   year={2019},
   publisher={Springer}
 }
