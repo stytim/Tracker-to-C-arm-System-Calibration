@@ -27,7 +27,20 @@ This code was tested on Windows 10.
 2. Run the Matlab script `HandEyeCalibration.m`.
 
 ## Citation
-If you use this code for your research, please cite our paper <a href="https://link.springer.com/article/10.1007/s11548-019-01943-z">Interactive Flying Frustums (IFFs): spatially aware surgical data visualization</a>:
+If you use this code for your research, please cite our paper <a href="https://doi.org/10.1109/TMI.2020.3037013">Development and Pre-Clinical Analysis of Spatiotemporal-Aware Augmented Reality in Orthopedic Interventions</a>:
+```
+@ARTICLE{9252943,
+  author={Fotouhi, Javad and Mehrfard, Arian and Song, Tianyu and Johnson, Alex and Osgood, Greg and Unberath, Mathias and Armand, Mehran and Navab, Nassir},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={Development and Pre-Clinical Analysis of Spatiotemporal-Aware Augmented Reality in Orthopedic Interventions}, 
+  year={2021},
+  volume={40},
+  number={2},
+  pages={765-778},
+  doi={10.1109/TMI.2020.3037013}}
+```
+
+<a href="https://link.springer.com/article/10.1007/s11548-019-01943-z">Interactive Flying Frustums (IFFs): spatially aware surgical data visualization</a>:
 
 ```
 @article{fotouhi2019interactive,
